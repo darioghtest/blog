@@ -2,7 +2,7 @@
 author: "Paragraph Test"
 date: 2026-11-20
 title: "Every block Paragraph's editor makes"
-twitter: "@paragraph_xyz"
+twitter: "paragraph_xyz"
 ---
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
